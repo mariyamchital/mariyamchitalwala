@@ -1,4 +1,4 @@
-Python application for stock portfolio optimization. Key features include:
+Python application for stock portfolio optimization. 
 Fetches historical stock price data from financial APIs (e.g., Alpha Vantage, Yahoo Finance)
  Handles missing values, outliers, and data inconsistencies
  Calculates expected returns, standard deviation, and correlation between assets
